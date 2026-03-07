@@ -7,9 +7,9 @@
 
 &#35;saturdaymorningcode is a personal challenge: one Saturday morning, one idea, one working thing, over here in the future that is 2026.
 No roadmaps, just "go-that-a-way". Just an idea, a vibe to code, and however long until the vibes run thin. 
-Less "shipping product," more "why has no one made this yet?" — then making it.
-These aren't polished. They're not meant to be. They're the kind of projects that exist 
-because the thought wouldn't leave and the caffeine was kicking in.
+Less "shipping product," more "why has no one made this yet?".
+These aren't polished, and they aren't meant to be, they are meant to be fun. They're the kind of code doodles that exist 
+because the caffeine was kicking in and the tokens were flowing.
 
 Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [these](https://github.com/topics/saturdaymorningcode).
 
