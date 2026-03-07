@@ -13,6 +13,7 @@ because the thought wouldn't leave and the caffeine was kicking in.
 
 Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [these](https://github.com/topics/saturdaymorningcode).
 
+ * [AI Anxiety Radar Chart](https://github.com/gravitymonkey/radar_chart) - Make Your Own
  * [Ferric](https://github.com/gravitymonkey/ferric) - streaming music player
  * [We Will Reich You](https://github.com/gravitymonkey/we_will_reich_you) - If Queen performed "Clapping"
  * [Keenan's Resume Renamer](https://github.com/gravitymonkey/Keenan-hates-bad-resume-names)
