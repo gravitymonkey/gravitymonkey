@@ -11,7 +11,7 @@ Less "shipping product," more "why has no one made this yet?" — then making it
 These aren't polished. They're not meant to be. They're the kind of projects that exist 
 because the thought wouldn't leave and the caffeine was kicking in.
 
-Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [https://github.com/topics/saturdaymorningcode](these).
+Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [these](https://github.com/topics/saturdaymorningcode).
 
  * [Ferric](https://github.com/gravitymonkey/ferric) - streaming music player
  * [We Will Reich You](https://github.com/gravitymonkey/we_will_reich_you) - If Queen performed "Clapping"
