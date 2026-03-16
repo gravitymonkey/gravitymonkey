@@ -12,7 +12,7 @@ These aren't polished, and they aren't meant to be, they are meant to be fun. Th
 because the caffeine was kicking in and the tokens were flowing.
 
 Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [these](https://github.com/topics/saturdaymorningcode).
-
+ * [Stochastic Code Monkeys](https://www.stochasticcodemonkeys.com/) - Blog; Ghost > Static Site
  * [AI Anxiety Radar Chart](https://github.com/gravitymonkey/radar_chart) - Make Your Own
  * [Ferric](https://github.com/gravitymonkey/ferric) - streaming music player
  * [We Will Reich You](https://github.com/gravitymonkey/we_will_reich_you) - If Queen performed "Clapping"
