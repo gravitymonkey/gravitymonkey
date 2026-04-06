@@ -12,6 +12,7 @@ These aren't polished, and they aren't meant to be, they are meant to be fun. Th
 because the caffeine was kicking in and the tokens were flowing.
 
 Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [these](https://github.com/topics/saturdaymorningcode).
+ * [Bare bones CMS](https://github.com/gravitymonkey/scm-site) - the source for [Stochastic Code Monkeys](https://www.stochasticcodemonkeys.com)
  * [YouTube Text Search](https://github.com/gravitymonkey/youtube-text-search/) - Extract transcripts to make a keyword + semantic RAG search across video
  * [Stochastic Code Monkeys](https://www.stochasticcodemonkeys.com/) - Blog; Ghost > Static Site
  * [AI Anxiety Radar Chart](https://github.com/gravitymonkey/radar_chart) - Make Your Own
