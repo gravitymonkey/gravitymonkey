@@ -12,6 +12,7 @@ These aren't polished, and they aren't meant to be, they are meant to be fun. Th
 because the caffeine was kicking in and the tokens were flowing.
 
 Join me - build stuff, set your GH topic to *saturdaymorningcode*, like [these](https://github.com/topics/saturdaymorningcode).
+ * [Agent Status Board](https://github.com/sunriseai/agent_status_board) - A kanban board that your coding agents manage, not you
  * [L'Épuisé](https://github.com/gravitymonkey/lepuise) - A generative piece for Piano(s), with very specific constraints
  * [Bare bones CMS](https://github.com/gravitymonkey/scm-site) - the source for [Stochastic Code Monkeys](https://www.stochasticcodemonkeys.com)
  * [YouTube Text Search](https://github.com/gravitymonkey/youtube-text-search/) - Extract transcripts to make a keyword + semantic RAG search across video
